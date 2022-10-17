@@ -1,19 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio.
 
-> Description the project.
-
+> In this branch (capstone__js) I made the accessibility well in my portfolio. Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can perceive, understand, navigate, and interact with the web. Web accessibility is essential for people with disabilities and useful for everyone in a variety of situations (e.g. people using a slow internet connection, older people with changing abilities due to ageing)..
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- Use semantic HTML tags.
+- Apply best practices in HTML code.
+- CSS
+- Use CSS selectors correctly.
+- Use CSS box model.
+- Use Flexbox to place elements in the page.
+- (RWD) responsive web design using media query
+- Animation and Transition
+- Use GitHub Pages to deploy web pages.
+- Check the accessibility for this portfolio
+- Apply JavaScript best practices and language style guides in code.
+- Use JavaScript to manipulate DOM elements.
+- Use JavaScript events.
+- Use objects to store and access data.
+- Communicate technical concepts to other technical people.
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+
+## Live Demo
+
+
+[Capstone js]( https://osamaashraf6.github.io/portfolio/)
 
 
 ## Getting Started
@@ -24,33 +39,17 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Osama Ashraf](https://github.com/osamaashraf6)
+- Twitter: [Osama Ashraf](https://twitter.com/OsamaAshraf578?t=l75KjrhQgK4h-vSPfgk1gA&s=08)
+- LinkedIn: [Osama Ashraf](https://www.linkedin.com/in/osama-salem-2a046b203)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -67,6 +66,7 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
 
 ## 📝 License
 
