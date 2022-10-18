@@ -49,6 +49,7 @@ const speakers = [
 ];
 // All required elements.
 const speakerss = document.querySelector('.sectionthree__container__speakers');
+
 // ============================================================================
 speakers.forEach((speaker) => {
   speakerss.innerHTML += `
@@ -82,3 +83,4 @@ speakers.forEach((speaker) => {
 </div>
  `;
 });
+// ============================================================================
