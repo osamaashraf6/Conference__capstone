@@ -126,9 +126,9 @@ nav {
 
 .nav__container__parnav__ul.change {
   position: absolute;
-  width: 300px;
+  width: 100%;
   height: 100vh;
-  background-color: aquamarine;
+  background-color: #ec5242;
   top: 0;
   left: 0;
   padding: 43px;
@@ -145,6 +145,7 @@ nav {
   font-size: 25px;
   display: block;
   margin-bottom: 15px;
+  color: #D3D3D3;
 }
 
 .bars {
@@ -155,7 +156,7 @@ nav {
 }
 
 .bars.change {
-  margin-left: 194px;
+  margin-left: 90%;
 }
 
 .bar {
