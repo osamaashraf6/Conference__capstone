@@ -465,12 +465,31 @@ nav {
   }
 
   .nav__container__parnav__ul > li > a {
-    color: #e47829;
+    color: #6a6161;
     font-weight: 600;
-    padding: 20px 20px;
+    padding: 27px 20px;
     transition: all 0.5s;
     height: 72px;
     display: block;
+  }
+
+  .colored {
+    color: #e47829 !important;
+  }
+
+  .parbordered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .bordered {
+    border: 5px solid #e47829;
+    display: flex;
+    align-items: center;
+    height: auto !important;
+    padding: 8px !important;
+    text-align: center;
   }
 
   .nav__container__parnav__ul > li > a:hover {
