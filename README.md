@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio.
+# Capstone js.
 
-> In this branch (capstone__js) I made the accessibility well in my portfolio. Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can perceive, understand, navigate, and interact with the web. Web accessibility is essential for people with disabilities and useful for everyone in a variety of situations (e.g. people using a slow internet connection, older people with changing abilities due to ageing)..
+> In this branch (capstone__js) 😊 I made the two pages (The home page. The about page). When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page.The section "Featured speakers" created dynamically in JavaScript and I made the project responsive.👌
 
 ## Built With
 
@@ -28,7 +28,7 @@
 ## Live Demo
 
 
-[Capstone js]( https://osamaashraf6.github.io/portfolio/)
+[Capstone js](https://osamaashraf6.github.io/capstone__js/)
 
 
 ## Getting Started
@@ -39,7 +39,9 @@
 
 To get a local copy up and running follow these simple example steps.
 
+## Loom video to explain the capstone project
 
+> [click here 😊 to watch the video](https://www.loom.com/share/64e039d16d464d22ba28fa8078d07a9f)
 
 ## Authors
 
