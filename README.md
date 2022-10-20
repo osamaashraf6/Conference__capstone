@@ -39,7 +39,9 @@
 
 To get a local copy up and running follow these simple example steps.
 
+## Loom video to explain the capstone project
 
+> [click here 😊 to watch the video](https://www.loom.com/share/64e039d16d464d22ba28fa8078d07a9f)
 
 ## Authors
 
