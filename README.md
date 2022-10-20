@@ -28,7 +28,7 @@
 ## Live Demo
 
 
-[Capstone js]( https://osamaashraf6.github.io/portfolio/)
+[Capstone js](https://osamaashraf6.github.io/capstone__js/)
 
 
 ## Getting Started
