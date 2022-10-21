@@ -310,6 +310,8 @@ main {
   padding: 20px;
   display: block;
   width: 80%;
+  text-align: center;
+  margin: auto;
 }
 
 /* end sectiontwo */
