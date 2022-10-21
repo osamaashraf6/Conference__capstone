@@ -126,11 +126,6 @@ nav {
   background-color: transparent;
   z-index: 10;
   position: relative;
-
-  /* position: absolute;
-  width: 100%; */
-
-  /* z-index: 5; */
 }
 
 .nav__container__parnav__brand {
@@ -605,7 +600,6 @@ main {
   }
 
   .sectiontwo > .container > a#second {
-    /* width: 53%; */
     display: none;
   }
 
@@ -651,11 +645,6 @@ main {
   /* end sectionfour */
 
   /* about design */
-
-  /* .sectionone.about {
-    height: auto;
-    text-align: center;
-  } */
 
   .sectionone__overlay__heroimage.about > p {
     width: 500px;
