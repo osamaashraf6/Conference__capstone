@@ -390,7 +390,10 @@ main {
 }
 
 .footer__container__parfoot__foot__responsive {
-  width: 71px;
+  background-color: black;
+  border-radius: 5px;
+  padding: 7px;
+  width: 81px;
 }
 
 .footer__container__parfoot__foot > span {
