@@ -1,19 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Capstone js.
 
-> Description the project.
-
+> In this branch (capstone__js) 😊 I made the two pages (The home page. The about page). When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page.The section "Featured speakers" created dynamically in JavaScript and I made the project responsive.👌
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- Use semantic HTML tags.
+- Apply best practices in HTML code.
+- CSS
+- Use CSS selectors correctly.
+- Use CSS box model.
+- Use Flexbox to place elements in the page.
+- (RWD) responsive web design using media query
+- Animation and Transition
+- Use GitHub Pages to deploy web pages.
+- Check the accessibility for this portfolio
+- Apply JavaScript best practices and language style guides in code.
+- Use JavaScript to manipulate DOM elements.
+- Use JavaScript events.
+- Use objects to store and access data.
+- Communicate technical concepts to other technical people.
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+
+## Live Demo
+
+
+[Capstone js](https://osamaashraf6.github.io/capstone__js/)
 
 
 ## Getting Started
@@ -24,33 +39,19 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Loom video to explain the capstone project
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+> [click here 😊 to watch the video](https://www.loom.com/share/64e039d16d464d22ba28fa8078d07a9f)
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Osama Ashraf](https://github.com/osamaashraf6)
+- Twitter: [Osama Ashraf](https://twitter.com/OsamaAshraf578?t=l75KjrhQgK4h-vSPfgk1gA&s=08)
+- LinkedIn: [Osama Ashraf](https://www.linkedin.com/in/osama-salem-2a046b203)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,9 +65,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+
 
 ## 📝 License
 
