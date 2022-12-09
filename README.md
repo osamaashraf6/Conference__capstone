@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Capstone js.
+# Conference__capstone.
 
 > This website is the result of the first Capstone Project for the Microverse Program😊. This is showing the World Tour for La Rienda Band, an argentinian band that will travel around the world.👌
 
@@ -28,7 +28,7 @@
 ## Live Demo
 
 
-[Capstone js](https://osamaashraf6.github.io/Conference__capstone/)
+[Conference__capstone](https://osamaashraf6.github.io/Conference__capstone/)
 
 
 ## Getting Started
