@@ -2,26 +2,26 @@
 
 # Capstone js.
 
-> In this branch (capstone__js) 😊 I made the two pages (The home page. The about page). When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page.The section "Featured speakers" created dynamically in JavaScript and I made the project responsive.👌
+> This website is the result of the first Capstone Project for the Microverse Program😊. This is showing the World Tour for La Rienda Band, an argentinian band that will travel around the world.👌
 
 ## Built With
 
-- HTML
-- Use semantic HTML tags.
-- Apply best practices in HTML code.
-- CSS
-- Use CSS selectors correctly.
-- Use CSS box model.
-- Use Flexbox to place elements in the page.
-- (RWD) responsive web design using media query
-- Animation and Transition
-- Use GitHub Pages to deploy web pages.
-- Check the accessibility for this portfolio
-- Apply JavaScript best practices and language style guides in code.
-- Use JavaScript to manipulate DOM elements.
-- Use JavaScript events.
-- Use objects to store and access data.
-- Communicate technical concepts to other technical people.
+- [x] HTML
+- [x] Use semantic HTML tags.
+- [x] Apply best practices in HTML code.
+- [x] CSS👍
+- [x] Use CSS selectors correctly.
+- [x] Use CSS box model.
+- [x] Use Flexbox to place elements in the page.
+- [x] (RWD) responsive web design using media query
+- [x] Animation and Transition⤵️
+- [x] Use GitHub Pages to deploy web pages.
+- [x] Check the accessibility for this portfolio
+- [x] Apply JavaScript best practices and language style guides in code.👌
+- [x] Use JavaScript to manipulate DOM elements.
+- [x] Use JavaScript events.💯
+- [x] Use objects to store and access data.
+- [x] Communicate technical concepts to other technical people.
 
 
 
@@ -34,10 +34,32 @@
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+```sh
+  cd my-folder
+  git clone https://github.com/osamaashraf6/Conference__capstone
+```
+
+
+### Install
+
+Install this project with:
+```sh
+  cd Conference__capstone
+  npm install
+```
+### Usage
+
+- open the index with live sever.
+- You can now see the Conference__capstone layout
 
 ## Loom video to explain the capstone project
 
